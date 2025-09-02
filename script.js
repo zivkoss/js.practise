@@ -92,5 +92,6 @@ setInterval(() => {
   }, 5000)
 
 
-I need a CV to be like: Nemanja Zivanovic, Viola player and teacher, master degree at UiS Stavanger, Norway. Also a guitar and bass guitar player. Another skill: JavaScript, TypeScript, Python, have been working on many public projects on GitHub.
+// I need a CV to be like: Nemanja Zivanovic, Viola player and teacher, master degree at UiS Stavanger, Norway. Also a guitar and bass guitar player. Another skill: JavaScript, TypeScript, Python, have been working on many public projects on GitHub.
+
 
